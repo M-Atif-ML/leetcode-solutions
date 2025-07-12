@@ -10,4 +10,5 @@ class Solution(object):
                     return [i,j]
           
         return []
+        # at this point I did'nt had any knowledge about hashtables.
         
